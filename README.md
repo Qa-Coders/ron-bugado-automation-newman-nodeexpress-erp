@@ -1,6 +1,6 @@
 # Teste Diretoria Ron Bugado 
 
-## Caminho Feliz
+## Caminho Felizz
 
 ### Login_Sucesso 
 - Verifica se o Status Code é 200
